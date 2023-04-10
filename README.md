@@ -1,6 +1,6 @@
 # flutter_dev_class
 
-A new Flutter project.
+Code for flutter workshop - A simple music player
 
 ## Getting Started
 
